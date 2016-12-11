@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{829E24F8-B4EF-430E-ACED-D9B513D30BF4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="web_app/PingController.cs">
+    <Files>
+      <File FileName="web_app/Program.cs" Line="45" Column="54" />
+      <File FileName="web_app/PingController.cs" Line="6" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.web__app PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

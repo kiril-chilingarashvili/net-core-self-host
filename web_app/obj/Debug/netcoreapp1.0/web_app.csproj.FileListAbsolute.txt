@@ -1,0 +1,6 @@
+/Users/Kirill/Projects/web_app/web_app/obj/Debug/netcoreapp1.0/web_app.csprojResolveAssemblyReference.cache
+/Users/Kirill/Projects/web_app/web_app/obj/Debug/netcoreapp1.0/web_app.AssemblyInfo.cs
+/Users/Kirill/Projects/web_app/web_app/bin/Debug/netcoreapp1.0/web_app.dll
+/Users/Kirill/Projects/web_app/web_app/bin/Debug/netcoreapp1.0/web_app.pdb
+/Users/Kirill/Projects/web_app/web_app/obj/Debug/netcoreapp1.0/web_app.dll
+/Users/Kirill/Projects/web_app/web_app/obj/Debug/netcoreapp1.0/web_app.pdb
